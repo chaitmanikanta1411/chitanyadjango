@@ -1,0 +1,2 @@
+# chitanyadjango
+django project
